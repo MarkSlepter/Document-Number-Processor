@@ -1,6 +1,6 @@
 # TeachMeSkills_C26_Lesson_11_HW
 This repository contains my homework assignment number 11
-#Task1
+# Task1
 Write a program with the following functionality:
 Pass a string as input (we will assume it is some standardized document number in a given format).
 The document number has the format xxxx-yyyy-xxxxx-yyyy-xyxyxy, where x is any digit and y is a letter of the Latin alphabet (can be large and small).
