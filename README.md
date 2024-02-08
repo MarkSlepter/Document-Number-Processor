@@ -1,5 +1,3 @@
-# TeachMeSkills_C26_Lesson_11_HW
-This repository contains my homework assignment number 11
 # Task1
 Write a program with the following functionality:
 Pass a string as input (we will assume it is some standardized document number in a given format).
