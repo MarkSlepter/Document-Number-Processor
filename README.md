@@ -11,12 +11,10 @@ The document number has the format xxxx-yyy-xxxx-yyy-xyxy, where x is any number
 - Check whether the document number ends with the sequence 1a2b.
 Implement all these methods in a separate class in static methods, each task in a separate method.
 Methods for input (input parameter) will accept a string entered as input to the program.
-
 Given a string of arbitrary length with arbitrary words.
 Find the shortest word in a line and display it on the screen.
 Find the longest word in a line and display it on the screen.
 If there are several such words, then print the last one.
-
 An arbitrary string is given.
 Print a new line to the console, which duplicates each letter from
 starting line.
