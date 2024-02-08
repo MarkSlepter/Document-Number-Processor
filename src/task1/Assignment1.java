@@ -1,4 +1,4 @@
-package com.teachmeskills.lesson11;
+package task1;
 
 public class Assignment1 {
 
